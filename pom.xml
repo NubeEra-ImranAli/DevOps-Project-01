@@ -18,7 +18,11 @@
 	<properties>
 		<java.version>1.8</java.version>
 	</properties>
-
+    <properties>
+        <sonar.projectKey>NubeEra-ImranAli_DevOps-Project-01</sonar.projectKey>
+        <sonar.organization>nubeera-imranali</sonar.organization>
+        <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+    </properties>
 	<dependencies>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
